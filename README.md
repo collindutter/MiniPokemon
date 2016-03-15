@@ -1,6 +1,6 @@
 # Mini Pokemon
 
-Mini Pokemon (unofficial name) is an (extremely) scaled down version of Pokemon Saphire made for CPE 123. It was programmed entirely entirely by myself, Brandon Kelly, and Allison Lee in around 2 weeks. I'm currently unable to create working executables, so until then I fix that, you'll need to download [Processing](https://processing.org) and run it yourself. Use the arrow keys along with 'Enter' to navigate the game!
+Mini Pokemon (unofficial name) is an (extremely) scaled down version of Pokemon Saphire made for CPE 123. It was programmed entirely entirely by myself, Brandon Kelly, and Allison Lee in around 2 weeks. Navigate through the menus using the arrow keys and 'enter.'
 
 ## Screenshots
 ![Imgur](http://i.imgur.com/ga6ZZnM.png)
