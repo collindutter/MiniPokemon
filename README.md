@@ -4,9 +4,7 @@ Mini Pokemon (unofficial name) is an (extremely) scaled down version of Pokemon 
 
 ## Screenshots
 ![Imgur](http://i.imgur.com/ga6ZZnM.png)
-*Title Screen*
 ![Imgur](http://i.imgur.com/jkqfOwV.gif)
-*Gameplay*
 
 ## Tech
 Mini Pokemon was programmed in [Processing](Processing.org).
